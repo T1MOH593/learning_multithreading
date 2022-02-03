@@ -1,3 +1,3 @@
 # threads
 
-This repository I used when studied MultiThreading in Java
+This repository I used when studied multithreading in Java
